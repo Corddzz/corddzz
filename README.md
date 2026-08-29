@@ -1,7 +1,6 @@
 <!-- Header / Intro -->
-<h1 align="center">Hi there, I'm Leonheil Cordero 👋</h1>
-
 <h1 align="center">👋 I'm Leonheil Cordero</h1>
+
 <h3 align="center">Web Dev | Fullstack Dev | Frontend Dev | Backend Dev </h3>
 <h3 align="center">React.js • Node.js • Express.js • MySQL • Docker🐳</h3>
 <h4 align="center">⚡ Building containerized, scalable web applications from database to UI ⚡</h4>
