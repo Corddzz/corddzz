@@ -30,14 +30,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<!-- GitHub Stats (Shows you're active) -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corddzz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corddzz&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 <!-- Featured Projects Teaser -->
 ## 🚀 Projects I'm Proud Of
 
