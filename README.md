@@ -11,7 +11,7 @@
 <!-- About Section -->
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently building **Computer Lab Inventory System**  
+- 🔭 I’m currently building **inventory-mern**  
 - 🌱 I’m diving deeper into **Next.js & TypeScript**  
 - 👯 I’m open to collaborating on **React / Full-Stack projects**  
 - 💬 Ask me about **React, Tailwind CSS, or MySQL**  
